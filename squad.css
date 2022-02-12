@@ -1,0 +1,56 @@
+#squad{
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+/* UPPER DIV */
+#logo {
+    display: block;
+    margin-left: 5px; 
+    margin-top: 0px;
+    float: left;
+    height: 80px;
+    width: 150px; 
+}
+#tabDiv{
+    background-color: rgb(19, 20, 46);
+    height: 80px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#tabs{
+    display: inline-block;
+    color: white;
+    margin-top: 15px;
+    font-size: 25px;
+    padding: 9px;
+    
+}
+#tabs:hover{
+    background-color: rgb(34, 33, 33);
+    color: white;
+}
+h2{
+    color: yellow;
+}
+table{
+    margin: auto;
+}
+table, th, td{
+    border: 1px solid red;
+    border-collapse: collapse;
+}
+th, td{
+    background-color: rgb(17, 7, 73);
+    color: wheat;
+    font-size: large;
+    height: 50px;
+    text-align: center;
+}
+.HK-headers{
+    border: 1px solid rgb(12, 11, 27);
+    font-weight: bold;
+    width: 550px;
+    text-align: center;
+    background-color: rgb(12, 11, 27);
+}

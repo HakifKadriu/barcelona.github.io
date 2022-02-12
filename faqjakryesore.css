@@ -1,0 +1,53 @@
+#FCB body{
+    height: 100%;
+}
+#FCB{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#logo {
+    display: block;
+    margin-left: 5px; /* margin: 20px was off */
+    margin-top: 0px;
+    float: left;
+    height: 80px;
+    width: 150px; /* correct proportions to specified height */
+}
+#tabDiv{
+    background-color: rgb(19, 20, 46);
+    height: 80px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+#tabs{
+    display: inline-block;
+    color: white;
+    margin-top: 15px;
+    font-size: 25px;
+    padding: 9px;
+    
+}
+#tabs:hover{
+    background-color: rgb(34, 33, 33);
+    color: white;
+}
+#disclaimer{
+    text-align: center;
+}
+#rightDiv{
+    float: right;
+    background-color: #d5dce2;
+    height: auto;
+    width: auto;
+}
+th{
+    padding-right: 30px;
+    text-align: left;
+}
+#tableLogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
